@@ -22,6 +22,21 @@ Cinemania is a comprehensive platform that provides a centralized repository for
 - Clone the repository: `git clone https://github.com/ghpratik/cinemania.git`
 - Navigate to the project directory: `cd cinemania`
 
+### API Key Setup
+
+To fetch movie-related data, Cinemania uses The Movie Database (TMDb) API. To set up the API key, follow these steps:
+
+1. Visit [TMDb website](https://www.themoviedb.org/) and create an account.
+
+2. Once logged in, go to your account settings and create an API key.
+
+3. Create a `.env` file in the project root and add your API key:
+
+   ```plaintext
+   VITE_APP_TMDB_TOKEN=your_tmdb_api_key
+   ```
+Replace `your_tmdb_api_key` with the actual API key you obtained from TMDb.
+
 ### Installation
 
 1. Install dependencies: `npm install`
