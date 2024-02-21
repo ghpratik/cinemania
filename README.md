@@ -2,6 +2,8 @@
 
 Cinemania is a comprehensive platform that provides a centralized repository for cinema-related data. Whether you're a movie enthusiast, a filmmaker, or a cinema buff, Cinemania offers a one-stop solution to access information about various cinemas worldwide.
 
+**Live Website:** [Cinemania Live](https://cinemania.pratikgaikwad.in)
+
 ## Features
 
 - **Extensive Cinema Database:** Cinemania hosts a vast database of cinemas, including details such as location, facilities, showtimes, and more.
